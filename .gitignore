@@ -1,0 +1,39 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Builds
+dist/
+out/
+build/
+.DS_Store
+
+# Logs
+logs/
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Electron
+release/
+*.asar
+
+# Coverage and tests
+coverage/
+test-results/
+
+# OS files
+Thumbs.db
